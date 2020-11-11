@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="450px" height="285px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -1570 -3176 )">
+    <path d="M 1571 3180  A 3 3 0 0 1 1574 3177 L 2016 3177  A 3 3 0 0 1 2019 3180 L 2019 3457  A 3 3 0 0 1 2016 3460 L 1574 3460  A 3 3 0 0 1 1571 3457 L 1571 3180  Z " fill-rule="nonzero" fill="#ff3399" stroke="none" fill-opacity="0.0980392156862745" />
+    <path d="M 1570.5 3180  A 3.5 3.5 0 0 1 1574 3176.5 L 2016 3176.5  A 3.5 3.5 0 0 1 2019.5 3180 L 2019.5 3457  A 3.5 3.5 0 0 1 2016 3460.5 L 1574 3460.5  A 3.5 3.5 0 0 1 1570.5 3457 L 1570.5 3180  Z " stroke-width="1" stroke-dasharray="9,4" stroke="#ff3399" fill="none" stroke-dashoffset="0.5" />
+  </g>
+</svg>
